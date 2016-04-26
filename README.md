@@ -1,5 +1,5 @@
 ## Fork
-Forked from https://github.com/malle-pietje/Unifi-API-browser to use php to output json so i can ingest with my [Dashing](https://github.com/mylivingweb/Dashing) install.
+Forked from https://github.com/malle-pietje/Unifi-API-browser to use php to output json so i can ingest with my [Dashing](https://github.com/mylivingweb/Dashing) install. Testing the code on CentOS 7 and the controller on a debian box with v. 4.8.15. 
 
 ## Unifi API browser
 This tool is for browsing data that is exposed through Ubiquiti's Unifi Controller API, written in PHP, JavaScript and the [Bootstrap] (http://getbootstrap.com/) CSS framework. Please keep the following in mind:
